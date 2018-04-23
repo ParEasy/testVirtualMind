@@ -1,0 +1,7 @@
+obj/
+bin/
+CMCoreNET/bin
+CMCoreNET/obj
+TestResults
+CMCoreTests/bin
+CMCoreTests/obj
